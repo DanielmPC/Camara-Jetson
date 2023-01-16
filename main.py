@@ -14,7 +14,7 @@ while True:
 
     key = cv2.waitKey(1)
 
-    if key == ord('q'):      # Al presionar q la ventana se ciera
+    if key == ord('q'):      # Al presionar q la ventana se cierra
         break 
 
 
